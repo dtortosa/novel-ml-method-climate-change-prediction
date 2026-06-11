@@ -12,16 +12,10 @@ The foundational research supporting this architecture has been peer-reviewed an
 
 The overall pipeline architecture processes unstructured geographic vectors through four core decoupled execution phases:
 
-[Spatial Ingestion & Feature Engineering]
-│
-▼
-[Multi-Algorithm Ensemble Training Framework] ── (Evolutionary Regularization)
-│
-▼
-[Combinatorial Multi-Scenario Projections (IPCC Matrices)]
-│
-▼
-[Out-of-Distribution (OOD) Spatial Validation]
+- Spatial Ingestion & Feature Engineering
+- Multi-Algorithm Ensemble Training Framework ── (Evolutionary Regularization)
+- Combinatorial Multi-Scenario Projections (IPCC Matrices)
+- Out-of-Distribution (OOD) Spatial Validation
 
 ### 1. Spatial Ingestion & High-Dimensional Feature Engineering
 - **Implementation:** Ingests massive, global edaphoclimatic matrices and geographic information system (GIS) layers.
